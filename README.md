@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kartik
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on Projects based on programming languages.
   
 
